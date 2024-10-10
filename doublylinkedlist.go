@@ -1,3 +1,5 @@
+//go:build cname
+
 package main
 
 import "fmt"
